@@ -1,4 +1,4 @@
-NTFS là một cách (một phương thức) mà Windows dùng để tổ chức và quản lý dữ liệu trên ổ cứng.
+NTFS (New Technology File System) là một cách (một phương thức) mà Windows dùng để tổ chức và quản lý dữ liệu trên ổ cứng.
 Hãy tưởng tượng ổ cứng = thư viện lớn
 NTFS chính là cách thư viện đó sắp xếp sách
 NTFS thuộc về phần mềm của hệ điều hành Windows.
