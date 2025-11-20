@@ -38,3 +38,50 @@ ADS cho phép tạo nhiều dòng dữ liệu khác, ẩn bên trong cùng 1 fil
 https://www.malwarebytes.com/blog/101/2015/07/introduction-to-alternate-data-streams
 
 =======================================================================
+
+UAC (User Account Control)
+
+1. Người dùng gia đình thường dùng tài khoản Admin
+
+Nhiều người dùng Windows đăng nhập bằng tài khoản quản trị viên (Admin).
+→ Nghĩa là họ có quyền thay đổi hệ thống: cài phần mềm, chỉnh cấu hình, thêm tài khoản, v.v.
+
+2. Nhưng không cần quyền Admin cho các công việc bình thường
+
+Ví dụ:
+
+Lướt web
+
+Gõ Word
+
+Xem phim
+
+Những việc này không cần quyền cao, nhưng nếu bạn vẫn dùng Admin, bạn tự tăng rủi ro bị malware tấn công.
+
+3. Vì sao nguy hiểm?
+
+Nếu bạn dùng tài khoản Admin:
+
+Malware chạy = nó cũng có quyền Admin
+
+Nó có thể cài phần mềm độc, thay đổi hệ thống, ẩn mình, cướp quyền…
+-> UAC (User Account Control) ra đời để bảo vệ người dùng
+
+Microsoft tạo ra UAC để giảm rủi ro khi người dùng dùng tài khoản Admin.
+UAC hoạt động như thế nào?
+
+Khi bạn dùng tài khoản Admin:
+Windows không cho bạn quyền Admin toàn bộ ngay lập tức.
+Bạn chỉ chạy ở quyền thông thường.
+Khi phần mềm cần quyền cao → Windows sẽ hiện cửa sổ UAC hỏi:
+“Bạn có cho phép chương trình này làm thay đổi hệ thống không?”
+
+Nếu bạn đồng ý → Windows cấp quyền admin tạm thời.
+Nếu không → chương trình không được cài đặt/thực thi.
+
+===================================================
+
+
+
+
+
