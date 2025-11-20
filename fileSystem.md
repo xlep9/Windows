@@ -5,6 +5,13 @@ NTFS thuộc về phần mềm của hệ điều hành Windows.
 Ổ cứng chỉ là thiết bị để chứa dữ liệu. Còn NTFS là “cách Windows quản lý dữ liệu trên ổ cứng”.
 NTFS được tích hợp sẵn trong hệ điều hành Windows.
 
+On NTFS volumes, you can set permissions that grant or deny access to files and folders.
+
+The permissions are:
+
+<img width="880" height="439" alt="image" src="https://github.com/user-attachments/assets/0e76ffb2-0fb4-4d32-b87a-f35477363a73" />
+
+
 ======================================================================
 
 Remote Desktop Protocol (RDP) là một giao thức (protocol) do Microsoft tạo ra, cho phép bạn điều khiển một máy tính từ xa thông qua mạng Internet hoặc mạng nội bộ.
