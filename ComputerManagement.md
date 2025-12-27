@@ -31,7 +31,9 @@ Shrink a partition
 Assign or change a drive letter (ex. E:) 
 
 
+
 ============Services and Applications===========
+
 
 Recall from the previous task, a service is a special type of application that runs in the background.
 The services shown above have their display names, status, and other values. 
