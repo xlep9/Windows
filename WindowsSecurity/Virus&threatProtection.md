@@ -20,7 +20,6 @@ Warning: Allow an item to run that has been identified as a threat only if you a
 
 <img width="1547" height="1536" alt="image" src="https://github.com/user-attachments/assets/21010392-7881-437c-b6c1-6e6a769c2980" />
 
-Manage settings 
 
 Real-time protection - Locates and stops malware from installing or running on your device.
 
