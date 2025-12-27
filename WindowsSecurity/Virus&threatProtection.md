@@ -23,11 +23,18 @@ Warning: Allow an item to run that has been identified as a threat only if you a
 Manage settings 
 
 Real-time protection - Locates and stops malware from installing or running on your device.
+
 Cloud-delivered protection - Provides increased and faster protection with access to the latest protection data in the cloud.
+
 Automatic sample submission - Send sample files to Microsoft to help protect you and others from potential threats. 
+
 Controlled folder access - This feature, if enabled, protects files, folders, and memory areas on your device from unauthorized changes by malicious or unknown applications. If it is enabled, only approved and trusted apps would be allowed to modify the files in the protected folders. To enable this feature, click on the Manage controlled folder access button under Controlled Folder Access and turn it on. 
-Exclusions - Windows Defender Antivirus allows you to exclude any files or folders from the antivirus scanning. This is done to reduce the number of false positives. Administrators might not want the antivirus to scan specific files or folders. By adding them to the exclusions list, the antivirus would ignore them and scan all the other files and folders. To add any file or folder to the Windows Defender exclusion list, click on the Add or remove exclusions button under Exclusions and add as many exclusions as you want. 
+
+Exclusions - Windows Defender Antivirus allows you to exclude any files or folders from the antivirus scanning. This is done to reduce the number of false positives. 
+Administrators might not want the antivirus to scan specific files or folders. By adding them to the exclusions list, the antivirus would ignore them and scan all the other files and folders. To add any file or folder to the Windows Defender exclusion list, click on the Add or remove exclusions button under Exclusions and add as many exclusions as you want. 
+
 Notifications - Windows Defender Antivirus will send notifications with critical information about the health and security of your device. 
+
 Warning: Excluded items could contain threats that make your device vulnerable. Only use this option if you are 100% sure of what you are doing. 
 
 
