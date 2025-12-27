@@ -15,7 +15,9 @@ actions executed on the system.
 <img width="947" height="459" alt="image" src="https://github.com/user-attachments/assets/66a7976f-2eb7-4db5-bf46-b44c70273d6c" />
 <img width="951" height="321" alt="image" src="https://github.com/user-attachments/assets/46d6df1f-1130-42ed-80ac-d0166ab5f565" />
 
+
 ============Storage================
+
 <img width="920" height="689" alt="image" src="https://github.com/user-attachments/assets/fbaf7654-4e70-49ea-83d7-c4a399ab05bd" />
 Disk Management is a system utility in Windows that enables you to perform advanced storage tasks.  Some tasks are:
 Set up a new drive
@@ -24,6 +26,7 @@ Shrink a partition
 Assign or change a drive letter (ex. E:) 
 
 ============Services and Applications===========
+
 Recall from the previous task, a service is a special type of application that runs in the background.
 The services shown above have their display names, status, and other values. 
 If you want to get more information about any service, right-click on the service and click properties.
