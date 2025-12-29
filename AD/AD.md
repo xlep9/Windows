@@ -8,6 +8,9 @@ Users are one of the most common object types in Active Directory. Users are one
 
 Machines are another type of object within Active Directory; for every computer that joins the Active Directory domain, a machine object will be created. Machines are also considered "security principals" and are assigned an account just as any regular user. This account has somewhat limited rights within the domain itself.
 
+<img width="859" height="796" alt="image" src="https://github.com/user-attachments/assets/3c251197-ed9a-4aeb-b233-441723389473" />
+
+
 Security Groups
 
 If you are familiar with Windows, you probably know that you can define user groups to assign access rights to files or other resources to entire groups instead of single users. This allows for better manageability as you can add users to an existing group, and they will automatically inherit all of the group's privileges. Security groups are also considered security principals and, therefore, can have privileges over resources on the network.
