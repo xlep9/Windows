@@ -12,3 +12,13 @@ Security Groups
 
 If you are familiar with Windows, you probably know that you can define user groups to assign access rights to files or other resources to entire groups instead of single users. This allows for better manageability as you can add users to an existing group, and they will automatically inherit all of the group's privileges. Security groups are also considered security principals and, therefore, can have privileges over resources on the network.
 Groups can have both users and machines as members. If needed, groups can include other groups as well.
+
+<img width="913" height="451" alt="image" src="https://github.com/user-attachments/assets/1af81266-2cc4-4d54-b751-0e214a973bf2" />
+
+You probably noticed already that there are other default containers apart from the THM OU. These containers are created by Windows automatically and contain the following:
+
+- Builtin: Contains default groups available to any Windows host.
+- Computers: Any machine joining the network will be put here by default. You can move them if needed.
+- Domain Controllers: Default OU that contains the DCs in your network.
+- Users: Default users and groups that apply to a domain-wide context.
+- Managed Service Accounts: Holds accounts used by services in your Windows domain.
